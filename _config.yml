@@ -1,5 +1,5 @@
 # Site settings
-title: Rum Blog
+title: Rum's Blog
 SEOTitle: Rum的博客 | Rum Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
@@ -56,14 +56,15 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
+
+ Disqus（https://disqus.com/）
  disqus_username: jiyinghua
 
-# Gitalk
- # gitalk:
- # enable: false    #是否开启Gitalk评论
+#  Gitalk
+#  gitalk:
+#  enable: false    #是否开启Gitalk评论
 #  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
- # clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
 #  repo: qiubaiying.github.io    #仓库名称
 #  owner: qiubaiying    #github用户名
 #  admin: qiubaiying
