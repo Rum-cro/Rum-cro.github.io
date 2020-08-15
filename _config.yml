@@ -1,5 +1,5 @@
 # Site settings
-title: Rum
+title: Rum's Blog
 SEOTitle: Rum的博客 | Rum Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
@@ -58,7 +58,8 @@ kramdown:
 # 评论系统
 
 # Disqus（https://disqus.com/）
-# disqus_username: jiyinghua
+
+disqus_username: Shesrum
 
 #  Gitalk
 #  gitalk:
