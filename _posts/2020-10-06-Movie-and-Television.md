@@ -13,8 +13,8 @@ tags:                               #标签
 
 # 字幕库
 - [字幕库](http://www.zimuku.la/)
- - [远鉴字幕组](https://www.zimuku.la/t/Ho4s0)
- - [衣柜字幕组](https://www.zimuku.la/t/HW6s0)
+  - [远鉴字幕组](http://www.zimuku.la/t/Ho4s0)
+  - [衣柜字幕组](http://www.zimuku.la/t/HW6s0)
 - [Sub HD](https://subhd.tv/)
 - [点点字幕](http://www.ddzimu.com/)
 - [射手网](https://assrt.net/)
