@@ -20,7 +20,7 @@ tags:                               #标签
 - [射手网](https://assrt.net/)
 
 # 综合
-- [片库](https://m.pianku.tv/)
+- [片库](https://www.pianku.tv/)
 - [疯狂影视搜索](http://ifkdy.com/)
 - [哔嘀影视](https://bde4.com/)
 - [两个BT](https://www.bttwo.com/)
@@ -34,7 +34,7 @@ tags:                               #标签
   - [片源网](http://pianyuan.la/)
   - [天下美剧](https://www.txmeiju.com)
   - [BT之家](http://www.647.net/)
-  - [BT吧](https://m.ibtba.cc/)
+  - [BT吧](https://www.ibtba.cc/)
   - [爱美剧tv](https://www.imjtv.com/)
   - [蓝光电影网](https://www.1080.cn)
   - [KAT](https://kickass.cd/)
