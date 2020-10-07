@@ -2,8 +2,8 @@
 title: Rum's Blog
 SEOTitle: Rum的博客 | Rum Blog
 header-img: img/icon/Home.webp
-email: qiubaiying@gmail.com
-description: "有关技术和生活的博客."
+email: 
+description: "个人收藏与生活"
 #keyword: ""
 url: "https://blog.csir.me"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
